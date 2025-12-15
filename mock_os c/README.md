@@ -9,7 +9,7 @@ Quick start
 2) From a terminal run:
 
 ```bash
-python "mock_os\main.py"
+python "mock_os c\main.py"
 ```
 
 Behavior
@@ -24,3 +24,4 @@ Notes
 
 - The mock OS is a minimal demo to prototype a fullscreen UI. It intentionally fakes functionality.
 - You can expand apps by editing `mock_os/main.py`.
+python "mock_os c\main.py"
