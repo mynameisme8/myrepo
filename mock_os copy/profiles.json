@@ -1,0 +1,6 @@
+{
+  "admin": {
+    "display": "Administrator",
+    "is_admin": true
+  }
+}
